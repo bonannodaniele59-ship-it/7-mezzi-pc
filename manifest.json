@@ -1,0 +1,16 @@
+
+{
+  "short_name": "ProCiv Log",
+  "name": "ProCiv Logbook - Gestione Mezzi",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=prociv&backgroundColor=004a99",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#004a99",
+  "background_color": "#ffffff"
+}

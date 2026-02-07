@@ -1,0 +1,7 @@
+{
+  "name": "ProCiv Logbook LEINI",
+  "description": "App per la gestione dei mezzi della Protezione Civile, dedicata ai volontari per la registrazione dei servizi, rifornimenti e manutenzione.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
